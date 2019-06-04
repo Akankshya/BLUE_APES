@@ -1,0 +1,48 @@
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:272: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:274: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "APES.py", line 230, in BurnButton
+  File "subprocess.pyc", line 540, in check_call
+subprocess.CalledProcessError: Command 'avrdude -p m328p -c avrisp -P COM11 -b 19200 -U flash:w:C:\Users\Mahe\Desktop\Blink.hex:i' returned non-zero exit status 1
+C:\Python27\dist\APES.exe:274: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "APES.py", line 230, in BurnButton
+  File "subprocess.pyc", line 540, in check_call
+subprocess.CalledProcessError: Command 'avrdude -p m328p -c avrisp -P COM11 -b 19200 -U flash:w:C:\Users\Mahe\Desktop\Blink.hex:i' returned non-zero exit status 1
+C:\Python27\dist\APES.exe:274: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "APES.py", line 230, in BurnButton
+  File "subprocess.pyc", line 540, in check_call
+subprocess.CalledProcessError: Command 'avrdude -p m328p -c avrisp -P COM11 -b 19200 -U flash:w:C:\Users\Mahe\Desktop\Blink.hex:i' returned non-zero exit status 1
+C:\Python27\dist\APES.exe:274: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "APES.py", line 230, in BurnButton
+  File "subprocess.pyc", line 540, in check_call
+subprocess.CalledProcessError: Command 'avrdude -p m328p -c avrisp -P COM11 -b 19200 -U flash:w:C:\Users\Mahe\Desktop\Blink.hex:i' returned non-zero exit status 1
+C:\Python27\dist\APES.exe:274: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "APES.py", line 230, in BurnButton
+  File "subprocess.pyc", line 540, in check_call
+subprocess.CalledProcessError: Command 'avrdude -p m328p -c avrisp -P COM11 -b 19200 -U flash:w:C:\Users\Mahe\Desktop\Blink.hex:i' returned non-zero exit status 1
+C:\Python27\dist\APES.exe:274: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "APES.py", line 230, in BurnButton
+  File "subprocess.pyc", line 540, in check_call
+subprocess.CalledProcessError: Command 'avrdude -p m328p -c avrisp -P COM11 -b 19200 -U flash:w:C:\Users\Mahe\Desktop\Blink.hex:i' returned non-zero exit status 1
+C:\Python27\dist\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\dist\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\AVRDUDE-BURNER\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+C:\Python27\AVRDUDE-BURNER\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+E:\BLUE_APES\AVRDUDE-BURNER\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+E:\BLUE_APES\AVRDUDE-BURNER\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+E:\BLUE_APES\AVRDUDE-BURNER\APES.exe:277: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
